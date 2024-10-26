@@ -192,7 +192,7 @@ export function HomePageComponent() {
               className="relative w-full h-full flex items-center justify-center"
             >
               <h1 className="text-4xl font-bold relative z-10">
-                Hi, I'm Tiago
+                Hi, I&apos;m Tiago
               </h1>
               <div
                 className="absolute inset-0"
