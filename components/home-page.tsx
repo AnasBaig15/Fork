@@ -43,7 +43,7 @@ const sections = [
     ),
     title: "Raven",
     content: `
-    <p><a href="http://www.ravenotes.com" target="_blank" rel="noopener noreferrer">Raven</a> is an app I'm developing for note-taking. It transforms how people capture, organize, and access knowledge from books⁠. I always struggled with note taking, being very time-consuming and inefficient⁠. So I fixed it.</p>
+    <p><a href="http://www.ravenotes.com" target="_blank" rel="noopener noreferrer">Raven</a> is an app I&#39;m developing for note-taking. It transforms how people capture, organize, and access knowledge from books⁠. I always struggled with note taking, being very time-consuming and inefficient⁠. So I fixed it.</p>
 
     <p>Raven uses AI to automate the note-taking process⁠, creating a well-structured, searchable digital database of personal knowledge⁠.</p>
   `,
@@ -64,7 +64,7 @@ const sections = [
     ),
     title: "Podcast",
     content: `
-    <p>I have a <a href="https://www.anagogepodcast.com/" target="_blank" rel="noopener noreferrer">podcast</a> about philosophy and psychology. While very neglected recently, it's still something I'm quite proud of, and has been a pleasure to interview people who have been extremely influential in my life, such as <a href="https://www.youtube.com/watch?v=cCaGrBaiGZo" target="_blank" rel="noopener noreferrer">John Vervaeke</a>, <a href="https://www.youtube.com/watch?v=gLwN0Cb3Zk8" target="_blank" rel="noopener noreferrer">Gregory Sadler</a> and <a href="https://www.youtube.com/watch?v=k1ysFfBs87U" target="_blank" rel="noopener noreferrer">Jonathan Pageau</a>.</p>
+    <p>I have a <a href="https://www.anagogepodcast.com/" target="_blank" rel="noopener noreferrer">podcast</a> about philosophy and psychology. While very neglected recently, it&#39;s still something I&#39;m quite proud of, and has been a pleasure to interview people who have been extremely influential in my life, such as <a href="https://www.youtube.com/watch?v=cCaGrBaiGZo" target="_blank" rel="noopener noreferrer">John Vervaeke</a>, <a href="https://www.youtube.com/watch?v=gLwN0Cb3Zk8" target="_blank" rel="noopener noreferrer">Gregory Sadler</a> and <a href="https://www.youtube.com/watch?v=k1ysFfBs87U" target="_blank" rel="noopener noreferrer">Jonathan Pageau</a>.</p>
   `,
   },
   {
@@ -83,9 +83,9 @@ const sections = [
     ),
     title: "GitHub",
     content: `
-    <p>I have no idea how to code, but I'm nevertheless stubborn enough to try doing a bunch of small projects using the most horrible engineering known to man. I find coding to be one of the beautiful things that people can do. Literally building stuff by yourself using nothing but a computer.</p>
+    <p>I have no idea how to code, but I&#39;m nevertheless stubborn enough to try doing a bunch of small projects using the most horrible engineering known to man. I find coding to be one of the beautiful things that people can do. Literally building stuff by yourself using nothing but a computer.</p>
 
-    <p>Unfortunately, I was never consistent and persistent enough to know how to code properly. But with modern tools and LLMs, it's quite fun to still be able to solve problems and build small personal projects. I have a few of them in my <a href="https://github.com/tiagovasc" target="_blank" rel="noopener noreferrer">Github</a>.</p>
+    <p>Unfortunately, I was never consistent and persistent enough to know how to code properly. But with modern tools and LLMs, it&#39;s quite fun to still be able to solve problems and build small personal projects. I have a few of them in my <a href="https://github.com/tiagovasc" target="_blank" rel="noopener noreferrer">Github</a>.</p>
   `,
   },
   {
@@ -104,7 +104,7 @@ const sections = [
     ),
     title: "Crypto",
     content: `
-    <p>I'm a big believer in crypto, and I've been working in the industry for several years. I believe blockchain technology can help create a better financial system. Digital sovereignty, permissionless access, censorship resistance and trustless software will play a crucial role in the 21 century. I help startups scale their marketing and community growth. I've wrote some articles <a href="https://dazai0x.substack.com/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+    <p>I&#39;m a big believer in crypto, and I&#39;ve been working in the industry for several years. I believe blockchain technology can help create a better financial system. Digital sovereignty, permissionless access, censorship resistance and trustless software will play a crucial role in the 21 century. I help startups scale their marketing and community growth. I&#39;ve wrote some articles <a href="https://dazai0x.substack.com/" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
     <p>I recommend the book "Read Write Own: Building the Next Era of the Internet" by Chris Dixon for a general overview of crypto with a focus on decentralizing the internet and social media.</p>
 
@@ -120,18 +120,14 @@ const sections = [
         className="w-16 h-16"
       >
         <path
-          d="M10 3H8v2H6v2h2V5h2v2h2v2h-2v2H8v2H6v2H4v-2H2v2h2v2h2v-2h4v2h2v2h-2v2h2v-2h2v-2h-2v-4h2v-2h2v2h2v2h2v-2h2v-2h-2v2h-2v-2h-2V9h2V5h-4v2h-2V5h-2V3z"
+          d="M3 5h4V3h2v2h4V3h2v2h4V3h2v2h4v14h-4v2h-2v-2h-4v2h-2v-2H9v2H7v-2H3V5zm4 12v-8H5v8h2zm6 0v-8h-4v8h4zm4 0h-2v-8h2v8zm2-8v8h2v-8h-2z"
           fill="currentColor"
         />
       </svg>
     ),
-    title: "Fitness",
+    title: "Houseplant Man",
     content: `
-    <p>I was a fitness coach for 10 years. I focused on following evidence-based practices and distilling them to helpful practices. Over the years I helped over 100, bodybuilders, powerlifters, and everyday folks get stronger, bigger, leaner and healthier.</p>
-
-    <p>I wrote some articles about fitness, which you can read <a href="https://linktr.ee/tiagovfitness" target="_blank" rel="noopener noreferrer">here</a>. I also competed in <a href="https://youtube.com/playlist?list=PLYs6oXx5jYhd_lR7Tou2AFIkem7x85CUs&si=WVdonBpPMi-EqxoT" target="_blank" rel="noopener noreferrer">Powerlifting</a> for many years, although I had zero talent for it.</p>
-
-    <p>I retired from coaching a few years ago, but fitness is still a big part of my life and I'm pretty active. I do strength training, bouldering, a bit running, and once in a blue moon cycling.</p>
+    <p>Yes, I&#39;m one of those people who loves houseplants. They add a lot of life to a space. It&#39;s relaxing and rewarding to see them grow⁠—like a small ecosystem you can create and nurture inside your home. My favorite plant has to be the Monstera Deliciosa, for its large leaves and ease of care.</p>
   `,
   },
 ];
